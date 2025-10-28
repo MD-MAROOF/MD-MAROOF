@@ -12,7 +12,7 @@
 - 👨‍🏫 Teaching Assistant for **Data Structures & Algorithms**, **Deep Learning**, and **Computer Security** at UAB.  
 - 🌱 I’m passionate about **Open Source**, **AI**, **Web Development**, and **Competitive Programming**.  
 - 💡 I’ve been **actively solving problems on LeetCode** for over 1.5 years — it’s part of my daily routine!  
-- 🌸 Participated in **Hacktoberfest 2025** — one of my PRs got accepted and I earned my **Holopin badge**!  
+- 🌸 Participated in **Hacktoberfest 2025** — few of my PRs got accepted and I earned my **Holopin badge**!  
 
 ---
 
@@ -44,6 +44,7 @@ Here are a few projects I’ve been working on recently:
 
 
 **NOMADIFY** : https://github.com/MD-MAROOF/Travel-Application-NOMADIFY
+
 **Live Link**: https://travel-application-nomadify.onrender.com/listings
 
 
