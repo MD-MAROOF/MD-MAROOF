@@ -33,13 +33,7 @@ https://www.holopin.io/@mdmaroof#badges
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MD-MAROOF&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-MAROOF&theme=tokyonight" />
-</p>
 
----
 
 ## 🧩 Featured Projects
 Here are a few projects I’ve been working on recently:
