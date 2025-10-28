@@ -1,19 +1,71 @@
 ## Hi there 👋
 
-<!--
-**MD-MAROOF/MD-MAROOF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Maroof!
 
-Here are some ideas to get you started:
+🎓 I'm currently pursuing my **Master’s in Computer Science** at the **University of Alabama at Birmingham (UAB)**.  
+💻 I'm a **Software Engineer** and passionate **Web Developer**, focusing primarily on the **MERN Stack** (MongoDB, Express.js, React, Node.js).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔭 Currently working on several **MERN stack projects** to deepen my full-stack development skills.  
+- 👨‍🏫 Teaching Assistant for **Data Structures & Algorithms**, **Deep Learning**, and **Computer Security** at UAB.  
+- 🌱 I’m passionate about **Open Source**, **AI**, **Web Development**, and **Competitive Programming**.  
+- 💡 I’ve been **actively solving problems on LeetCode** for over 1.5 years — it’s part of my daily routine!  
+- 🌸 Participated in **Hacktoberfest 2025** — one of my PRs got accepted and I earned my **Holopin badge**!  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp,java,git,github,vscode" />
+</p>
+
+---
+
+## 🧠 Competitive Programming
+- 🧩 [LeetCode Profile](https://leetcode.com/u/MD_Maroof/)
+
+---
+
+## 🌟 Holopin Badges
+[![An image of @mdmaroof Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yourholopinusername)](https://holopin.io/@yourholopinusername)
+
+*(Replace `yourholopinusername` with your actual Holopin username.)*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MD-MAROOF&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-MAROOF&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+Here are a few projects I’ve been working on recently:
+- 🌐 **Full-Stack MERN Web App** — A dynamic web app built with React, Express, MongoDB, and Node.js.  
+- 🤖 **AI-Based Tool** — Experimenting with simple AI/ML integrations into web projects.  
+- 🧰 **Open Source Contributions** — Participated in Hacktoberfest and contributed to community-driven projects.
 
 
-[![An image of @mdmaroof's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdmaroof)](https://holopin.io/@mdmaroof)
+
+**NOMADIFY** : https://github.com/MD-MAROOF/Travel-Application-NOMADIFY
+**Live Link**: https://travel-application-nomadify.onrender.com/listings
+
+
+**EUREKAGPT** (work in progress): https://github.com/MD-MAROOF/EurekaGPT
+
+---
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/maroof-md-9a324b22a/)
+- 📧 **Email:** maroof.md2001@gmail.com  
+- 🏆 [LeetCode](https://leetcode.com/u/MD_Maroof/)
+
+---
+
+⭐ **"Code. Learn. Build. Repeat."**
+
+
