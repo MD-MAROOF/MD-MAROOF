@@ -29,9 +29,7 @@
 ---
 
 ## 🌟 Holopin Badges
-[![An image of @mdmaroof Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yourholopinusername)](https://holopin.io/@yourholopinusername)
-
-*(Replace `yourholopinusername` with your actual Holopin username.)*
+https://www.holopin.io/@mdmaroof#badges
 
 ---
 
