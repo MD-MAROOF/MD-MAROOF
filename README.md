@@ -48,7 +48,7 @@ Here are a few projects I’ve been working on recently:
 **Live Link**: https://travel-application-nomadify.onrender.com/listings
 
 
-**EUREKAGPT** (work in progress): https://github.com/MD-MAROOF/EurekaGPT
+
 
 ---
 
