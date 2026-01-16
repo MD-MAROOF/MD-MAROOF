@@ -45,7 +45,7 @@ Here are a few projects I’ve been working on recently:
 
 **NOMADIFY** : https://github.com/MD-MAROOF/Travel-Application-NOMADIFY
 
-**Live Link**: https://travel-application-nomadify.onrender.com/listings
+**Live Link (Nomadify)**: https://travel-application-nomadify.onrender.com/listings
 
 **Llumina**: https://drive.google.com/file/d/1cXhbON-TM5WM_kMAsMo_KIcLSmVVj7Af/view?usp=drive_link
 
